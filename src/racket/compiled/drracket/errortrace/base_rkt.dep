@@ -1,0 +1,1 @@
+("5.3.3" ("8ce398bf3ec63392fd6aaeead116ce3bd9ced65c" . "d2d73690c800fffe0f24c177dfe4eb7227c5e1a8") #"/Users/marcelotsunematsu/tetris-racket/src/racket/tetra-tipos.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"2htdp" #"image.rkt") (collects #"racket" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.3" ("ab3ecd5e01be026a9f60938dc946758ed780df1a" . "b0708a04f4f58ee1f0c3990848e9095898dabe8c") #"/Users/marcelotsunematsu/tetris-racket/src/racket/base.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"2htdp" #"image.rkt") (collects #"racket" #"lang" #"reader.rkt"))
